@@ -1,6 +1,6 @@
 # Olá 👋
 
-  - 👨🏻‍🦱 Meu nome é Kauan Sampaio
+  - 👨🏻‍🦱 Me chamo Kauan Sampaio
   - 💫 17 Anos de idade
   - 💚 Cursando Técnico em Informática no Instituto Federal, no campus de Campinas
 
