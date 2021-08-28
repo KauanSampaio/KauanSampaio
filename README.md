@@ -23,9 +23,9 @@
   -
   <img align="center" alt="Kauan-NodeJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
   -
-  <img align="center" alt="Kauan-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg">
-  -
   <img align="center" alt="Kauan-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+  -
+  <img align="center" alt="Kauan-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg">
   -
   <img align="center" alt="Kauan-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg">
   -
