@@ -34,4 +34,6 @@
   <img align="center" alt="Kauan-Android" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg">
   -
   <img align="center" alt="Kauan-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg">
+  -
+  <img align="center" alt="Kauan-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg">
 </div>
