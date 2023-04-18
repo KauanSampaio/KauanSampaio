@@ -119,7 +119,7 @@
         <a target="_blank" href="https://www.instagram.com/horoseus_/">
             <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Instagram.png" width="50" height="50" alt="Instagram" />
         </a>
-        &nbsp&nbsp&nbsp
+        &nbsp&nbsp&nbsp&nbsp&nbsp
         <!-- Contact Gmail -->
         <a target="_blank" href="mailto:kauansampaio53@gmail.com">
             <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Gmail.png" width="50" height="50" alt="Gmail" />
