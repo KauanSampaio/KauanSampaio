@@ -89,6 +89,7 @@
     &nbsp&nbsp&nbsp
     <!-- VSCode Logo -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VSCode"/>
+    &nbsp&nbsp&nbsp
     <!-- Docker Logo -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="40" height="40" alt="Docker"/>  
 
