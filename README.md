@@ -11,7 +11,7 @@
 <br/>
 <!-- Badges -->
 <p align="center">
-    <img src="https://img.shields.io/badge/Focus-Backend%20Development-9cf" />
+    <img src="https://img.shields.io/badge/Focus-FullStack%20Development-9cf" />
     <img src="https://img.shields.io/badge/Languages-Portuguese-9cf" />
     <img src="https://img.shields.io/badge/Languages-English-9cf" />
 </p>
