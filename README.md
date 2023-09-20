@@ -18,11 +18,11 @@
 
 ## ❓ About me
 
-- ⚡ I'm 19 years old
+- ⚡ I'm 20 years old
 - 🇧🇷 Brazilian
 - 🔭 I’m currently working on my side projects
 - 📖 I’m currently learning ReactJS and other Front-end Frameworks
-- 📫 How to reach me: Contact part
+- 📫 How to reach me: <a href="#contacts">Contact part</a>
 
 <br>
 
@@ -110,7 +110,7 @@
 </div>
 
 <!-- Contact Links -->
-<h3 align="center" > Contacts 🤝 </h3>
+<h3 align="center" id="contacts"> Contacts 🤝 </h3>
 <p align="center">
     <div align="center"  class="icons-social" style="margin-left: 10px;">
         <!-- Contact Linkedin -->
