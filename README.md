@@ -42,9 +42,6 @@
     <!-- PHP Logo -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="40" height="40" alt="PHP" />
     &nbsp&nbsp&nbsp
-    <!-- Python Logo -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="40" height="40" alt="Python" />
-    &nbsp&nbsp&nbsp
     <!-- C Logo -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" width="40" height="40" alt="C" />
     &nbsp&nbsp&nbsp
