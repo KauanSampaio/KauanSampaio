@@ -18,10 +18,8 @@
 
 ## ❓ About me
 
-- ⚡ I'm 20 years old
+- ⚡ I'm 21 years old
 - 🇧🇷 Brazilian
-- 🔭 I’m currently working on my side projects
-- 📖 I’m currently learning ReactJS and other Front-end Frameworks
 - 📫 How to reach me: <a href="#contacts">Contact part</a>
 
 <br>
