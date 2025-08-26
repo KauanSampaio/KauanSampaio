@@ -19,8 +19,8 @@
 ## ❓ About me
 
 - ⚡ I'm 21 years old
-- 🇧🇷 Brazilian
-- 📫 How to reach me: <a href="#contacts">Contact part</a>
+- 🇧🇷  Brazilian
+- 📚 Software Engineering | 2/8
 
 <br>
 
@@ -113,7 +113,7 @@
         </a>
         &nbsp&nbsp&nbsp&nbsp&nbsp
         <!-- Contact Instagram -->
-        <a target="_blank" href="https://www.instagram.com/horoseus_/">
+        <a target="_blank" href="https://www.instagram.com/_kauan.sampaio/">
             <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Instagram.png" width="50" height="50" alt="Instagram" />
         </a>
         &nbsp&nbsp&nbsp&nbsp&nbsp
